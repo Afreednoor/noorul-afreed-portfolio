@@ -1,3 +1,4 @@
+Updated project documentation.
 # Noorul Afreed — Developer Portfolio
 
 Premium cinematic developer portfolio showcasing AI-powered interaction systems, accessibility-focused projects, and modern frontend experiences.
