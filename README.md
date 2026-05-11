@@ -5,7 +5,8 @@ Premium cinematic developer portfolio showcasing AI-powered interaction systems,
 
 ## Live Portfolio
 
-Add your deployed portfolio link here.
+noorulafreed-portfolio.netlify.app
+
 
 ## About
 
